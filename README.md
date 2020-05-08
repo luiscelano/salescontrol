@@ -1,5 +1,5 @@
 # Proyecto Control de Ventas
-## Universidad Mariano Galvez de Guatemala**
+## Universidad Mariano Galvez de Guatemala
 **Información General**
  - Carrera: Ingeniería en Sistemas de Información
  - Semestre 1
