@@ -6,6 +6,8 @@
  - Sección **B**
  - Ing. Victoria Isabel Ruano Girón
  - Curso: Introducción a sistemas de Cómputo
+
+
 **Integrantes de Grupo**
 - Isis Ondina Méndez Méndez 
   - carnet 0900-20-738
